@@ -1,2 +1,2 @@
 # StatisticalLearningCourse
-Homewroks for Statistical Learning Course, University La Sapienza
+Homeworks for Statistical Learning Course, University La Sapienza
